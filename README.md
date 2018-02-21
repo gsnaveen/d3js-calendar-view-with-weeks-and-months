@@ -4,3 +4,10 @@ Thanks to Mike Bostock for contributing https://bl.ocks.org/mbostock/4063318 to 
 
 
 ![alt text](https://github.com/gsnaveen/d3js-calendar-view-with-weeks-and-months/blob/master/calendar.png "Check Wiki")
+
+###### Input data Format
+![alt text](https://github.com/gsnaveen/d3js-calendar-view-with-weeks-and-months/blob/master/calendarInputData.png "Check Wiki")
+
+
+###### Update the following line of code as per your data attributes
+.rollup(function(d) { return (d[0].Close - d[0].Open) / d[0].Open; })
