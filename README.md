@@ -12,5 +12,5 @@ Thanks to Mike Bostock for contributing https://bl.ocks.org/mbostock/4063318 to 
 ###### Update the following line of code as per your data attributes
 .rollup(function(d) { return (d[0].Close - d[0].Open) / d[0].Open; })
 
-###### Location of the data. Just specify the file name if it exist in the same folder in place of the URL
+###### For location of the data. Specify the file name if it exist in the same folder in place of the URL
 d3.csv("https://bl.ocks.org/mbostock/raw/4063318/dji.csv", function(error, csv) {
