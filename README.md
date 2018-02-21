@@ -15,5 +15,5 @@ Thanks to Mike Bostock for contributing https://bl.ocks.org/mbostock/4063318 to 
 ###### For location of the data. Specify the file name if it exist in the same folder in place of the URL
 d3.csv("https://bl.ocks.org/mbostock/raw/4063318/dji.csv", function(error, csv)
 
-###### For listing the number of years
+###### For displaying the number of years
 .data(d3.range(1999, 2011))
