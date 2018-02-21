@@ -13,4 +13,4 @@ Thanks to Mike Bostock for contributing https://bl.ocks.org/mbostock/4063318 to 
 .rollup(function(d) { return (d[0].Close - d[0].Open) / d[0].Open; })
 
 ###### For location of the data. Specify the file name if it exist in the same folder in place of the URL
-d3.csv("https://bl.ocks.org/mbostock/raw/4063318/dji.csv", function(error, csv) {
+d3.csv("https://bl.ocks.org/mbostock/raw/4063318/dji.csv", function(error, csv)
