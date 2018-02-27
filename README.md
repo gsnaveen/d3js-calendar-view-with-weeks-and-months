@@ -3,7 +3,7 @@
 Thanks to Mike Bostock for contributing https://bl.ocks.org/mbostock/4063318 . Have added weeks and months for easy read. I hope this will be helpful for your visualizations. this is an extension to the work of Mike,  Colors by [Cynthia Brewer](http://colorbrewer.org/). Layout inspired by [Rick Wicklin and Robert Allison](http://stat-computing.org/dataexpo/2009/posters/). Dow Jones historical data copyright [Yahoo! Finance](http://finance.yahoo.com/) or independent data provider; fair use for educational purposes.
 
 
-![alt text]](https://bl.ocks.org/gsnaveen/8b3368f3a65228e05d62926aa45a0b53 "click to goto bl.ocks.org link")
+[Live page](https://bl.ocks.org/gsnaveen/8b3368f3a65228e05d62926aa45a0b53)
 
 
 ![alt text](https://github.com/gsnaveen/d3js-calendar-view-with-weeks-and-months/blob/master/calendar.png "Check Wiki")
